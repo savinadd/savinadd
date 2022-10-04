@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @savinadd
-- 🌱 I’m currently focusing on Python and Django
-- 💞️ I’m looking to collaborate on any project!
 - 📫 How to reach me: email me at savina.dimitrov@gmail.com
 
 <!---
