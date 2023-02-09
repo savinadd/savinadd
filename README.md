@@ -2,7 +2,7 @@
 - 📫 How to reach me: email me at savina.dimitrov@gmail.com
 
 
-[![Savina's GitHub stats](https://github-readme-stats.vercel.app/api?username=savinadd)](https://github.com/savinadd/github-readme-stats)
+[![Savina's GitHub stats](https://github-readme-stats.vercel.app/api?username=savinadd&count_private=true&theme=dracula)](https://github.com/savinadd/github-readme-stats)
 
 <!---
 savinadd/savinadd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
