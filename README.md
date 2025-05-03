@@ -1,8 +1,28 @@
-- 👋 Hi, I’m @savinadd
-- 📫 How to reach me: email me at savina.dimitrov@gmail.com
+<!-- GitHub README starts here -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savinadd&layout=donut&theme=gruvbox)](https://github.com/savinadd/github-readme-stats)
-<!---
-savinadd/savinadd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi there 👋, I'm Savina</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=savinadd&label=Profile%20views&color=0e75b6&style=flat" alt="savinadd" />
+</p>
+
+---
+
+### 🚀 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savinadd&layout=compact&hide=html,css" alt="Savina's Top Languages" />
+</p>
+
+---
+
+
+
+### 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savinadd&theme=github-compact" alt="Savina's Contribution Graph" />
+</p>
+
+---
+
+<!-- GitHub README ends here -->
